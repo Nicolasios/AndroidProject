@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">APP of TY</string>
+    <string name="title">Main Activity</string>
+    <string name="tv_1">界面1</string>
+    <string name="tv_2">界面2</string>
+    <string name="button_1">TextView</string>
+    <string name="button_2">Button</string>
+    <string name="button_3">EditText</string>
+    <string name="button_4">RadioButton</string>
+    <string name="btn_1">ButtonOne</string>
+    <string name="btn_2">ButtonTwo</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="verification">验证码</string>
+    <string name="login">登录</string>
+    <string name="man">男</string>
+    <string name="woman">女</string>
+    <string name="button_5">CheckBox</string>
+    <string name="cb_title">你喜欢什么系统？</string>
+    <string name="android">Android</string>
+    <string name="linux">Linux</string>
+    <string name="mac">Mac</string>
+    <string name="other">Other</string>
+    <string name="cb_title_1">你喜欢什么水果？</string>
+    <string name="button_6">ImageView</string>
+    <string name="tv_title">我是标题</string>
+    <string name="tv_time">2020.07.27</string>
+    <string name="tv_content">我是内容</string>
+    <string name="button_7">ListView</string>
+    <string name="button_8">RecycleView</string>
+    <string name="recycle_linear">列表视图</string>
+</resources>

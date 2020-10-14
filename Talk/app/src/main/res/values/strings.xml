@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">与君说</string>
+    <string name="main_reg">注册</string>
+    <string name="main_login">登录</string>
+    <string name="show_info">显示信息</string>
+    <string name="delete">删除</string>
+    <string name="save">保存</string>
+    <string name="close">关闭</string>
+    <string name="email">邮箱</string>
+    <string name="name">用户名</string>
+    <string name="age">年龄</string>
+    <string name="logan">与君言 说天下  谈乐事  语青春</string>
+    <string name="reg_username">请输入用户名</string>
+    <string name="reg_email">请输入邮箱地址</string>
+    <string name="reg_password">请输入密码</string>
+    <string name="reg_confirm">确认</string>
+    <string name="reg_cancel">取消</string>
+</resources>
